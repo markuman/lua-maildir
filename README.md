@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/lua-maildir
+bye bye microsoft. please visit https://git.osuv.de/m/lua-maildir
